@@ -1,1 +1,7 @@
+Скачиваем необходимое П.О. для запуска малинки
 
+Идём на сайт https://www.raspberrypi.com/software/
+Скачиваем Raspberry Pi Imager
+Идём  на https://www.raspberrypi.com/software/operating-systems/
+Скачиваем образ Raspberry Pi OS with desktop
+Устанавливаем Raspberry Pi Imager
